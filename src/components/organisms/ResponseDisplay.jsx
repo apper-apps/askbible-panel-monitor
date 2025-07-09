@@ -77,9 +77,9 @@ const ResponseDisplay = ({ response, onSave, onShare, className }) => {
               <div className="p-2 rounded-full bg-metallic-gold/10 mt-1">
                 <ApperIcon name="BookOpen" className="w-5 h-5 text-metallic-gold" />
               </div>
-              <div className="flex-1">
+<div className="flex-1">
                 <h3 className="font-display font-semibold text-dark-goldenrod mb-3">
-                  Biblical Guidance
+                  Spiritual Wisdom
                 </h3>
                 <p className="response-text mb-6">
                   {response.interpretation}

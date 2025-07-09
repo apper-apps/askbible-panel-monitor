@@ -22,9 +22,9 @@ class ResponseService {
 // Generate a generic response for unmatched questions
     return {
       Id: Date.now(),
-      questionId: Date.now().toString(),
+questionId: Date.now().toString(),
       question,
-      interpretation: "Here's what you can do: First, pray and ask God for wisdom about your situation. Second, read the Bible regularly to learn God's ways. Third, talk to other Christians who can help guide you. God wants to help you and promises to give wisdom to anyone who asks.",
+      interpretation: "Here's what you can do: First, seek inner wisdom through quiet reflection and meditation about your situation. Second, study spiritual teachings regularly to understand universal principles. Third, connect with others on the spiritual path who can offer guidance. The universe responds to sincere seeking and provides wisdom to those who ask with an open heart.",
       verses: [
         {
           reference: "James 1:5",
