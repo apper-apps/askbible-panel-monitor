@@ -1,0 +1,28 @@
+[
+  {
+    "Id": 1,
+    "type": "verse",
+    "content": {
+      "reference": "Philippians 4:6-7",
+      "text": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus."
+    },
+    "savedAt": "2024-01-15T10:30:00Z",
+    "tags": ["Peace", "Anxiety", "Prayer"]
+  },
+  {
+    "Id": 2,
+    "type": "response",
+    "content": {
+      "question": "How can I find peace in difficult times?",
+      "interpretation": "In times of trouble, the Bible offers profound comfort and practical guidance. Peace comes not from the absence of storms, but from trusting in God's presence within them.",
+      "verses": [
+        {
+          "reference": "Philippians 4:6-7",
+          "text": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God."
+        }
+      ]
+    },
+    "savedAt": "2024-01-14T14:15:00Z",
+    "tags": ["Peace", "Comfort", "Trust"]
+  }
+]

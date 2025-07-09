@@ -1,0 +1,107 @@
+[
+  {
+    "Id": 1,
+    "questionId": "1",
+    "question": "How can I find peace in difficult times?",
+    "interpretation": "In times of trouble, the Bible offers profound comfort and practical guidance. Peace comes not from the absence of storms, but from trusting in God's presence within them. The scriptures remind us that God is our refuge and strength, always ready to help in times of trouble. This divine peace surpasses human understanding and can guard our hearts and minds even in the midst of chaos.",
+    "verses": [
+      {
+        "reference": "Philippians 4:6-7",
+        "text": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus."
+      },
+      {
+        "reference": "Psalm 46:1-3",
+        "text": "God is our refuge and strength, an ever-present help in trouble. Therefore we will not fear, though the earth give way and the mountains fall into the heart of the sea, though its waters roar and foam and the mountains quake with their surging."
+      },
+      {
+        "reference": "John 14:27",
+        "text": "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid."
+      }
+    ],
+    "relatedTopics": ["Peace", "Comfort", "Trust", "Prayer"]
+  },
+  {
+    "Id": 2,
+    "questionId": "2",
+    "question": "What does the Bible say about forgiveness?",
+    "interpretation": "Forgiveness is central to the Christian faith and personal healing. The Bible teaches that forgiveness is not optional but essential for spiritual and emotional well-being. When we forgive others, we release ourselves from the burden of bitterness and allow God's grace to work in our lives. This doesn't mean forgetting or excusing harmful behavior, but rather choosing to release the debt and trust God with justice.",
+    "verses": [
+      {
+        "reference": "Matthew 6:14-15",
+        "text": "For if you forgive other people when they sin against you, your heavenly Father will also forgive you. But if you do not forgive others their sins, your Father will not forgive your sins."
+      },
+      {
+        "reference": "Ephesians 4:32",
+        "text": "Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you."
+      },
+      {
+        "reference": "Colossians 3:13",
+        "text": "Bear with each other and forgive one another if any of you has a grievance against someone. Forgive as the Lord forgave you."
+      }
+    ],
+    "relatedTopics": ["Forgiveness", "Healing", "Grace", "Relationships"]
+  },
+  {
+    "Id": 3,
+    "questionId": "3",
+    "question": "How should I handle conflict with others?",
+    "interpretation": "Biblical wisdom offers a transformative approach to conflict resolution that prioritizes relationship restoration over winning arguments. The scriptures teach us to approach conflict with humility, gentleness, and a desire for peace. This involves listening carefully, speaking truthfully in love, and seeking understanding rather than just being understood. The goal is not to avoid conflict but to handle it in a way that honors God and preserves relationships.",
+    "verses": [
+      {
+        "reference": "Matthew 18:15-17",
+        "text": "If your brother or sister sins, go and point out their fault, just between the two of you. If they listen to you, you have won them over. But if they will not listen, take one or two others along, so that 'every matter may be established by the testimony of two or three witnesses.' If they still refuse to listen, tell it to the church; and if they refuse to listen even to the church, treat them as you would a pagan or a tax collector."
+      },
+      {
+        "reference": "Proverbs 15:1",
+        "text": "A gentle answer turns away wrath, but a harsh word stirs up anger."
+      },
+      {
+        "reference": "Romans 12:18",
+        "text": "If it is possible, as far as it depends on you, live at peace with everyone."
+      }
+    ],
+    "relatedTopics": ["Conflict", "Relationships", "Communication", "Peace"]
+  },
+  {
+    "Id": 4,
+    "questionId": "4",
+    "question": "What is the meaning of true love?",
+    "interpretation": "True love, according to scripture, is far more than emotion or attraction—it is a choice to act in the best interests of another person. Biblical love is patient, kind, and selfless. It seeks the good of others even at personal cost. This love is demonstrated through actions, not just words, and it reflects God's own love for humanity. True love is sacrificial, unconditional, and enduring.",
+    "verses": [
+      {
+        "reference": "1 Corinthians 13:4-8",
+        "text": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres. Love never fails."
+      },
+      {
+        "reference": "John 15:13",
+        "text": "Greater love has no one than this: to lay down one's life for one's friends."
+      },
+      {
+        "reference": "1 John 4:19",
+        "text": "We love because he first loved us."
+      }
+    ],
+    "relatedTopics": ["Love", "Relationships", "Sacrifice", "Service"]
+  },
+  {
+    "Id": 5,
+    "questionId": "5",
+    "question": "How can I overcome fear and anxiety?",
+    "interpretation": "Fear and anxiety are natural human responses, but the Bible offers powerful antidotes through faith, prayer, and trust in God's character. Scripture repeatedly commands us not to fear, not because danger doesn't exist, but because God is greater than any threat we face. The key to overcoming fear is shifting our focus from the problem to God's power and presence. This requires active trust and the discipline of bringing our anxious thoughts to God in prayer.",
+    "verses": [
+      {
+        "reference": "Isaiah 41:10",
+        "text": "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand."
+      },
+      {
+        "reference": "2 Timothy 1:7",
+        "text": "For God has not given us a spirit of fear, but of power, of love and of sound mind."
+      },
+      {
+        "reference": "Psalm 23:4",
+        "text": "Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me."
+      }
+    ],
+    "relatedTopics": ["Fear", "Anxiety", "Trust", "Courage", "Faith"]
+  }
+]

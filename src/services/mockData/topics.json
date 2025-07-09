@@ -1,0 +1,74 @@
+[
+  {
+    "Id": 1,
+    "name": "Love",
+    "description": "Understanding God's love and how to love others",
+    "sampleQuestion": "What does true love look like according to the Bible?"
+  },
+  {
+    "Id": 2,
+    "name": "Forgiveness",
+    "description": "Finding freedom through forgiving others and yourself",
+    "sampleQuestion": "How do I forgive someone who has deeply hurt me?"
+  },
+  {
+    "Id": 3,
+    "name": "Strength",
+    "description": "Drawing on God's power in times of weakness",
+    "sampleQuestion": "Where can I find strength when I feel overwhelmed?"
+  },
+  {
+    "Id": 4,
+    "name": "Guidance",
+    "description": "Seeking God's direction for life's decisions",
+    "sampleQuestion": "How do I know God's will for my life?"
+  },
+  {
+    "Id": 5,
+    "name": "Peace",
+    "description": "Finding inner calm amid life's storms",
+    "sampleQuestion": "How can I find peace in difficult times?"
+  },
+  {
+    "Id": 6,
+    "name": "Wisdom",
+    "description": "Growing in understanding and discernment",
+    "sampleQuestion": "How can I gain wisdom to make better decisions?"
+  },
+  {
+    "Id": 7,
+    "name": "Faith",
+    "description": "Strengthening trust in God's goodness and power",
+    "sampleQuestion": "How do I have faith when I can't see the way forward?"
+  },
+  {
+    "Id": 8,
+    "name": "Hope",
+    "description": "Finding hope in God's promises for the future",
+    "sampleQuestion": "How do I maintain hope during dark seasons?"
+  },
+  {
+    "Id": 9,
+    "name": "Prayer",
+    "description": "Communicating with God and deepening relationship",
+    "sampleQuestion": "How should I pray when I don't know what to say?"
+  },
+  {
+    "Id": 10,
+    "name": "Comfort",
+    "description": "Finding solace in God's presence during grief",
+    "sampleQuestion": "Where can I find comfort when I'm grieving?"
+  },
+  {
+    "Id": 11,
+    "name": "Courage",
+    "description": "Being brave in the face of challenges",
+    "sampleQuestion": "How can I be courageous when I'm afraid?"
+  },
+  {
+    "Id": 12,
+    "name": "Joy",
+    "description": "Discovering lasting joy that transcends circumstances",
+    "sampleQuestion": "How can I find joy in the midst of hardship?"
+  }
+]
