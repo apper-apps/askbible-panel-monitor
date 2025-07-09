@@ -27,8 +27,8 @@ const DailyVerse = ({ verse, onSave, onShare, className }) => {
       transition={{ duration: 0.6 }}
       className={cn("mb-8", className)}
     >
-      <Card className="p-6 bg-gradient-to-r from-cream to-light-parchment border-2 border-metallic-gold/30">
-        <div className="flex items-start justify-between">
+<Card className="p-6 bg-gradient-to-r from-cream to-light-parchment border-2 border-metallic-gold/30">
+        <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between">
           <div className="flex-1">
             <div className="flex items-center space-x-2 mb-4">
               <ApperIcon name="Sunrise" className="w-6 h-6 text-metallic-gold" />
@@ -47,10 +47,11 @@ const DailyVerse = ({ verse, onSave, onShare, className }) => {
             </div>
           </div>
           
-          <div className="flex items-center space-x-2 ml-6">
+          <div className="flex flex-col space-y-2 mt-4 sm:flex-row sm:items-center sm:space-x-2 sm:space-y-0 sm:mt-0 sm:ml-6">
             <Button
               variant="outline"
-              size="sm"
+              size="default"
+              className="sm:!px-4 sm:!py-2 sm:!text-sm"
               onClick={handleShare}
             >
               <ApperIcon name="Share2" className="w-4 h-4 mr-2" />
@@ -58,7 +59,8 @@ const DailyVerse = ({ verse, onSave, onShare, className }) => {
             </Button>
             <Button
               variant="secondary"
-              size="sm"
+              size="default"
+              className="sm:!px-4 sm:!py-2 sm:!text-sm"
               onClick={handleSave}
             >
               <ApperIcon name="Bookmark" className="w-4 h-4 mr-2" />
