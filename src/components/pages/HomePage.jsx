@@ -107,15 +107,15 @@ const HomePage = () => {
                   Ancient wisdom for modern life
                 </p>
               </div>
-            </div>
+</div>
 
-            <nav className="flex space-x-1">
+            <nav className="flex flex-col space-y-1 sm:flex-row sm:space-y-0 sm:space-x-1">
               {tabs.map((tab) => (
                 <button
                   key={tab.id}
                   onClick={() => setActiveTab(tab.id)}
                   className={cn(
-                    "flex items-center space-x-2 px-4 py-2 rounded-lg transition-all duration-300",
+                    "flex items-center space-x-2 px-4 py-2 rounded-lg transition-all duration-300 w-full sm:w-auto justify-center sm:justify-start",
                     activeTab === tab.id
                       ? "bg-metallic-gold text-white shadow-lg shadow-metallic-gold/30"
                       : "text-cool-gray hover:bg-cream hover:text-dark-goldenrod"
