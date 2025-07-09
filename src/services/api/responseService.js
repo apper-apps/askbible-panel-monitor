@@ -19,12 +19,12 @@ class ResponseService {
       return { ...matchingResponse, question };
     }
 
-    // Generate a generic response for unmatched questions
+// Generate a generic response for unmatched questions
     return {
       Id: Date.now(),
       questionId: Date.now().toString(),
       question,
-      interpretation: "Thank you for your question. While I don't have a specific response prepared for this exact question, I encourage you to explore the scriptures and seek guidance through prayer. The Bible contains wisdom for every situation, and God promises to provide guidance to those who seek Him earnestly.",
+      interpretation: "Here's what you can do: First, pray and ask God for wisdom about your situation. Second, read the Bible regularly to learn God's ways. Third, talk to other Christians who can help guide you. God wants to help you and promises to give wisdom to anyone who asks.",
       verses: [
         {
           reference: "James 1:5",
